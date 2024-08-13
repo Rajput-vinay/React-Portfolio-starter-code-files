@@ -1,61 +1,58 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
-        
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        name:"Vidya-Sankalp ",
+        description:"The vidya-sanklap project is designed to streamline the educational process. It allows users to access a variety of educational materials",
+        tags:["reactJs","nodeJs","mongodb","tailwindCSS","Redux","expressJs"],
+        demo:"https://vidya-sankalp.vercel.app/",
+        github:"https://github.com/Rajput-vinay/Vidya-Sankalp.git"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
-        
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        name:"youtube_lite",
+        description:"This project is a clone of the popular video-sharing platform YouTube.",
+        tags:["Reactjs","Youtube API", "TailwindCSS"],
+
+        demo:"https://youtube-lite-three.vercel.app/",
+        github:"https://github.com/Rajput-vinay/youtube_lite.git"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        name:"WeatherApp",
+        description:"Current Weather Conditions and City-based Forecast is a web application that provides real-time weather information for your location or any city you search for. ",
+        tags:["HTML","CSS","JavaScript","API"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://weather-app-wine-theta.vercel.app/",
+        github:"https://github.com/Rajput-vinay/WeatherApp.git"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"PasswordGeneratorApp",
+        description:"This application is provides a simple way to generate random and strong passwords based on user-selected parameters.",
+        tags:["HTML","CSS","JS"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"https://password-generator-app-rho-pink.vercel.app/",
+        github:"https://github.com/Rajput-vinay/PasswordGeneratorApp.git"
        
-    },{
+    }, {
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"TicTaeToe",
+        description:"This project involves creating a classic Tic-Tac-Toe game where players can compete against each other ",
+        tags:["HTML","TailwindCSS","JavaScript"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
-        
+        demo:"https://tic-tae-toe-woad.vercel.app/",
+        github:"https://github.com/Rajput-vinay/TicTaeToe.git"
+       
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
+        name:"Chess",
+        description:"This project involves creating a classic chess game where players can compete against each other ",
+        tags:["HTML","CSS","JavaScript"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
-        
-    },
-    
-  
+        demo:"https://chessgame-rho.vercel.app/",
+        github:"https://github.com/Rajput-vinay/Chessgame.git"
+       
+    }
 ] 
